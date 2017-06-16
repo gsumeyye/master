@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="loginName">UserName</string>
+    <string name="loginPwd">Password</string>
+    <string name="loginOk">Enter</string>
+    <string name="news">The News</string>
+    <string name="haberturk_link"><a href="http://www.haberturk.com/">Habertürk</a></string>
+    <string name="milliyet_link"><a href="http://www.milliyet.com.tr/">Milliyet</a></string>
+    <string name="hurriyet_link"><a href="http://www.hurriyet.com.tr/">Hürriyet</a></string>
+    <string name="cnn_link"><a href="http://www.cnnturk.com/">Cnn Türk</a></string>
+</resources>
